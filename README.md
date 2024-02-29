@@ -1,0 +1,2 @@
+# Automatic Dog Feeder
+ For Electro Jam 2024, the purpose of this project is to develop skills and gain a better understanding of electrical systems with a focus on the theme being cats and dogs. I will be designing an automatic dog feeder and demonstrating the functionality and feasibility of this system. The automatic dog feeder will help dog owners simplify their daily routines by providing a convenient and reliable solution to feed their dog(s) on schedule.
